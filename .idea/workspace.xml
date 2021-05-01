@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56ebf879-e97e-4b4e-9b39-d5bb6f2d2120" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="$USER_HOME$/Documents/Environments/repository" />
+        <option name="mavenHome" value="$USER_HOME$/Documents/Environments/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/Environments/apache-maven-3.6.3/conf/settings-personal.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r0qwJZEhCNrK34a7HujzPgUbFQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29310346" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mybatis_multitable/src/main/resources/com/lagou/mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest.test1">
+    <configuration name="MybatisTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_quickStarter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.MybatisTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_multitable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.MybatisTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testUserDaoProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_quickStarter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.MybatisTest" />
+      <option name="METHOD_NAME" value="testUserDaoProxy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.test1" />
+        <item itemvalue="JUnit.MybatisTest.testUserDaoProxy" />
+        <item itemvalue="JUnit.MybatisTest.findAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56ebf879-e97e-4b4e-9b39-d5bb6f2d2120" name="Default Changelist" comment="" />
+      <created>1618123591652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618123591652</updated>
+      <workItem from="1618123595388" duration="255000" />
+      <workItem from="1618123869815" duration="3247000" />
+      <workItem from="1619892604090" duration="1034000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1619892871662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619892871663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/IPersistence" />
+    </ignored-roots>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1024" y="231" key="#Project_Structure" timestamp="1618123812850">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state x="1024" y="231" key="#Project_Structure/46.25.2002.1255@46.25.2002.1255" timestamp="1618123812850" />
+    <state width="959" height="348" key="GridCell.Tab.0.bottom" timestamp="1618128967476">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state width="959" height="348" key="GridCell.Tab.0.bottom/46.25.2002.1255@46.25.2002.1255" timestamp="1618128967476" />
+    <state width="959" height="348" key="GridCell.Tab.0.center" timestamp="1618128967475">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state width="959" height="348" key="GridCell.Tab.0.center/46.25.2002.1255@46.25.2002.1255" timestamp="1618128967475" />
+    <state width="959" height="348" key="GridCell.Tab.0.left" timestamp="1618128967475">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state width="959" height="348" key="GridCell.Tab.0.left/46.25.2002.1255@46.25.2002.1255" timestamp="1618128967475" />
+    <state width="959" height="348" key="GridCell.Tab.0.right" timestamp="1618128967476">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state width="959" height="348" key="GridCell.Tab.0.right/46.25.2002.1255@46.25.2002.1255" timestamp="1618128967476" />
+    <state x="1158" y="270" key="NewModule_or_Project.wizard" timestamp="1618123912335">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state x="1158" y="270" key="NewModule_or_Project.wizard/46.25.2002.1255@46.25.2002.1255" timestamp="1618123912335" />
+    <state x="1024" y="231" key="SettingsEditor" timestamp="1619892740450">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state x="1024" y="231" key="SettingsEditor/46.25.2002.1255@46.25.2002.1255" timestamp="1619892740450" />
+    <state x="647" y="371" key="Vcs.Push.Dialog.v2" timestamp="1619892899659">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state x="647" y="371" key="Vcs.Push.Dialog.v2/46.25.2002.1255@46.25.2002.1255" timestamp="1619892899659" />
+    <state x="717" y="308" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1619893406070">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state x="717" y="308" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/46.25.2002.1255@46.25.2002.1255" timestamp="1619893406070" />
+    <state x="885" y="447" key="svn.repositoryBrowser" timestamp="1619892645464">
+      <screen x="46" y="25" width="2002" height="1255" />
+    </state>
+    <state x="885" y="447" key="svn.repositoryBrowser/46.25.2002.1255@46.25.2002.1255" timestamp="1619892645464" />
+  </component>
+</project>

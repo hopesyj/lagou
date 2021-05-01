@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lagou.mapper.IOrderMapper">
+
+    <resultMap id="orderMap" type="order">
+        <result property="id" column="id"/>
+        <result property="orderTime" column="ordertime"/>
+        <result property="total" column="total"/>
+        <result property="date" column="date"/>
+        <!--关联对象-->
+        <association property="user" javaType="user">
+            <result property="id" column="uid"/>
+            <result property="username" column="username"/>
+        </association>
+    </resultMap>
+
+    <select id="findOrderAndUser" resultMap="orderMap">
+        select * from orders o,user u where o.uid = u.id
+    </select>
+
+    <select id="findOrderByDate" parameterType="map" resultMap="orderMap">
+        select * from orders
+        <where>
+        <if test="startDate != null">and date <![CDATA[  >=  ]]> #{startDate}</if>
+        <if test="endDate != null">and date <![CDATA[  <=  ]]> #{endDate}</if>
+        </where>
+    </select>
+</mapper>
