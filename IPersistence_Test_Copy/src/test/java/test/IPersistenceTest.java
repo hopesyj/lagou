@@ -27,6 +27,7 @@ public class IPersistenceTest {
 
         IUserDao userDao = sqlSession.getMapper(IUserDao.class);
 
+        //查询
         List<User> all = userDao.findAll();
         System.out.println(all);
 
